@@ -1,0 +1,9 @@
+name: ZWorldProtect
+main: nukkit.ZWorldProtect.ZWorldProtect
+version: "1.0.0"
+api: ["1.0.0"]
+commands:
+  zw:
+    description: "世界管理指令"
+    usage: "/zw help"
+    
